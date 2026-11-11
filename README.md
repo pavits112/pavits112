@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Pavit Singh 👋</h1>
-<p align="center"><strong>Software Engineer • Full-Stack Developer • Embedded Systems & Game Modding Enthusiast</strong></p>
+<p align="center"><strong>Software Engineer | Full-Stack Developer | Embedded Systems | Game Modding</strong></p>
 
 <p align="center">
-  <a href="https://github.com/pavits112"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+full-stack+web+apps;Connecting+hardware+with+the+web;Exploring+game+modding+and+reverse+engineering" alt="Typing animation"></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+web+apps+and+automation+tools;Working+with+ESP32+and+embedded+systems;Learning+game+modding+and+reverse+engineering" alt="Typing animation"></a>
 </p>
 
 <p align="center">
@@ -13,37 +13,33 @@
 
 ## About me
 
-I'm a B.Tech Information Technology graduate and software engineer who enjoys working across the stack — from responsive web applications and cloud backends to ESP32 firmware, real-time device control, game modding, and reverse engineering for learning and interoperability.
+I'm Pavit, a software engineer and B.Tech IT graduate. I enjoy building things that I can actually use, whether that is a web app, a Telegram bot, an ESP32 project, or a small tool for understanding how software works.
 
-- 💻 Building full-stack applications with React, Vue 3, Nuxt.js, TypeScript, and REST APIs
-- 🔌 Connecting hardware and software with ESP32, C++, WebSocket, sensors, and automation
-- 🎮 Exploring game modding, scripting, assets, debugging, and software internals
-- 🛒 Experienced with PHP, WordPress, WooCommerce, Python backends, and MySQL
-- 🧪 Interested in safe, legal, and responsible software experimentation
+Most of my work sits somewhere between web development, automation, embedded systems, and game modding. I also spend time learning debugging and reverse engineering in a safe and responsible way.
 
-## Technical focus
+## What I'm working with
 
-| Area | Technologies and interests |
+| Area | Tools and technologies |
 | --- | --- |
 | Languages | JavaScript, TypeScript, Python, PHP, C/C++, SQL |
 | Frontend | React, Redux Toolkit, Vue 3, Nuxt.js, Tailwind CSS, HTML/CSS |
-| Backend & data | REST APIs, Drizzle ORM, SQLite, Cloudflare D1, MySQL, Firebase |
-| Embedded & IoT | ESP32, ESP-IDF, Arduino C++, STM32, sensors, GPIO, OTA firmware, WebSocket |
-| Platforms & tools | Git, Linux, Cloudflare, WordPress, WooCommerce |
-| Exploration | Game modding, debugging, binary analysis, reverse engineering |
+| Backend | REST APIs, Drizzle ORM, SQLite, Cloudflare D1, MySQL, Firebase |
+| Embedded | ESP32, ESP-IDF, Arduino C++, STM32, sensors, GPIO, OTA, WebSocket |
+| Other work | WordPress, WooCommerce, Linux, Git, automation, Telegram bots |
+| Currently learning | Game modding, debugging, binary analysis, and reverse engineering |
 
-## Selected work
+## A few things I've built
 
-| Project | What it demonstrates |
+| Project | Details |
 | --- | --- |
-| [IoT Controller](https://github.com/pavits112) | ESP32 controller with an async web server, real-time WebSocket communication, Wi-Fi provisioning, OTA delivery, and GPIO relay control. |
-| [Sensestock](https://github.com/pavits112) | Inventory management platform with role-based login, dashboards, Chart.js visualizations, and CSV exports. |
-| [Voltsens](https://github.com/pavits112) | WooCommerce electronics store with bulk product imports, backups, and custom PHP plugins. |
-| [Telegram Link Filter](https://github.com/pavits112/telegram-link-filter) | Python moderation bot that detects and removes links from non-admin messages. |
-| [Tasks App](https://github.com/pavits112) | React, Redux Toolkit, TypeScript, and Tailwind CSS task management application. |
-| [Weather Web App](https://github.com/pavits112/weather-web-app) | A simple browser-based weather application. |
+| [Telegram Link Filter](https://github.com/pavits112/telegram-link-filter) | A Python bot that removes links from messages sent by non-admins. |
+| [Anti Link Bot](https://github.com/pavits112/anti-link-bot) | A Telegram moderation tool for keeping groups and channels cleaner. |
+| [Weather Web App](https://github.com/pavits112/weather-web-app) | A simple browser-based weather project. |
+| [TASKWEA](https://github.com/pavits112/TASKWEA) | A small HTML and CSS web project. |
+| IoT Controller | An ESP32 project with a web server, WebSocket communication, Wi-Fi setup, OTA updates, and relay control. |
+| Sensestock | An inventory app with dashboards, role-based access, alerts, and CSV export features. |
 
-## Tech stack
+## Tools I use
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
@@ -55,22 +51,26 @@ I'm a B.Tech Information Technology graduate and software engineer who enjoys wo
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/Reverse%20Engineering-6E40C9?style=flat-square&logo=radar&logoColor=white" alt="Reverse engineering">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
 </p>
 
-## GitHub activity
+## GitHub stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pavits112&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Pavit's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavits112&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavits112&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" height="165">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pavits112&theme=transparent&hide_border=true" alt="GitHub contribution streak">
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavits112&bg_color=00000000&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph">
 </p>
 
-## Let's connect
+## Outside the code
 
-If you like full-stack development, embedded systems, game modding, reverse engineering, or practical automation, feel free to explore my repositories and connect with me on GitHub.
+When I'm not working on a project, I usually explore game mechanics, test ideas, read about low-level systems, or experiment with hardware. I like projects where I can learn something new while building them.
 
-<p align="center"><em>Build useful things. Understand how they work. Share the work.</em></p>
+<p align="center"><em>Keep building. Keep learning.</em></p>
